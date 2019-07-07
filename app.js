@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    document.getElementById("getMessage").onclick = function () {
+    document.getElementById("button").onclick = function () {
         alert("Working")
     }
 }); 
